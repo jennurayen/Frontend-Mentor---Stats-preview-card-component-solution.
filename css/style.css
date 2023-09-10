@@ -68,7 +68,7 @@ body{
 }
 
 .bg-image{
-    background: url(images/image-header-desktop.jpg);
+    background: url(/images/image-header-desktop.jpg);
     height: 444px;
     width: 100%;
     background-size: cover;
@@ -103,7 +103,7 @@ body{
 
 @media only screen and (max-width: 375px){
     .bg-image{
-        background: url(images/image-header-mobile.jpg);
+        background: url(/images/image-header-mobile.jpg);
         height: 240px;
     }
 }
